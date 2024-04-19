@@ -11,9 +11,9 @@ googleAnalytics = ""
 [params]
 # Style options: default (pink), blue, green, pink, red, sea, violet
 # Use custom.css for your custom styling
-style = "violet"
-description = "Describe your website"
-copyright = "&copy;2016 Your name or company"
+style = "default"
+description = "web3 dev shop"
+copyright = "&copy;2016 Yearone"
 sidebarAbout = [
     "LUKSO dev shop.",
     "Droppers of 🖼️🔥📂 https://burntpix.cc",
@@ -33,7 +33,7 @@ sidebarAbout = [
 # - send a dummy email yourself to confirm your account
 # - click the confirm link in the email from www.formspree.io
 # - you're done. Happy mailing!
-email = "you@yoursite.com"
+email = "hello@yearone.io"
 
 # Optional Matomo analytics (formerly piwik)
 # [params.analytics.matomo]
@@ -61,12 +61,12 @@ url = "contact/"
 [params.social]
 #facebook      = "full page or profile url in facebook"
 #googleplus    = "full profile url in googleplus"
-email         = "email@example.com"
-twitter       = "full profile url in twitter"
+email         = "hello@yearone.io"
+twitter       = "https://x.com/YearOneIO/"
 #linkedin      = "full profile url in linkedin"
 #stackoverflow = "full profile url in stackoverflow"
 #instagram     = "full profile url in instagram"
-github        = "full profile url in github"
+github        = "https://github.com/yearone-io/"
 #gitlab        = "full profile url in gitlab"
 #youtube       = "full profile url in youtube"
 #whatsapp      = "wa.me service link"
