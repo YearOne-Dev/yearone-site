@@ -14,3 +14,5 @@ In the spirit of the original this project is merely an artistic showcase of its
 Feel free to become part of the collection, but look at it as art, not as something to speculate on. no updates, no fixes, no core team or community, no promises. 
 
 The Burnt Pix Archives are provided as is.
+
+https://burntpix.cc
