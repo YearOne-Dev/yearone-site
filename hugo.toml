@@ -1,4 +1,4 @@
-baseURL = 'https://roaring-bavarois-037696.netlify.app/'
+baseURL = 'https://yearone.io/'
 languageCode = 'en-us'
 title = 'YEARONE'
 theme = "hugo-creative-portfolio-theme"
