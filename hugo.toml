@@ -13,7 +13,7 @@ googleAnalytics = ""
 # Use custom.css for your custom styling
 style = "default"
 description = "web3 dev shop"
-copyright = "&copy;2016 Yearone"
+copyright = "&copy;2024 Yearone IO"
 sidebarAbout = [
     "LUKSO dev shop.",
     "Droppers of 🖼️🔥📂 https://burntpix.cc",
@@ -49,14 +49,6 @@ email = "hello@yearone.io"
 name = "Home"
 url = "portfolio/"
 home = true
-
-[[params.navlinks]]
-name = "About"
-url = "about/"
-
-[[params.navlinks]]
-name = "Get in touch"
-url = "contact/"
 
 [params.social]
 #facebook      = "full page or profile url in facebook"
