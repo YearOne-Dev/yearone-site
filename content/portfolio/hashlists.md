@@ -8,7 +8,7 @@ weight = 1
 
 +++
 
-hashlists is a protocol for the creation and management of curated lists on the blockchain. 
+Hashlists is a protocol for the creation and management of curated lists on the blockchain. 
 
 By organizing blockchain addresses into specific sets, hashlists provides a way to manage allowlists, blocklists, or other curated groups, which are useful for conditional onchain interactions. 
 
