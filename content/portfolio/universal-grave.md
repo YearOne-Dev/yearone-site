@@ -4,7 +4,7 @@ title = "Universal Grave"
 draft = false
 image = "img/portfolio/universal-grave.png"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 
 GRAVE - the Global Reserve For Abandoned Virtual Entities. 
@@ -12,5 +12,7 @@ GRAVE - the Global Reserve For Abandoned Virtual Entities.
 A cemetery for unwanted digital assets. 
 
 But given that one man's trash is another man's treasure, all assets have a chance at revival.
+
+Winner of the Lukso #BuildUp2 hackathon.
 
 https://universalgrave.com

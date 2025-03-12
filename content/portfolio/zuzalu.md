@@ -6,6 +6,6 @@ date = "2016-11-05T20:23:59+05:30"
 title = "Zuzalu Network"
 +++
 
-A decentralized attention curation tool using collusion-resistant quadratic voting.
+A decentralized attention curation tool using collusion-resistant quadratic voting. It was used in the Zuzalu pop-up city in Montengro.
 
-https://zuzalu.network
+https://github.com/PluralCC
