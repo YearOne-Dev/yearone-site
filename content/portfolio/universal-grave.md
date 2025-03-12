@@ -4,7 +4,7 @@ title = "Universal Grave"
 draft = false
 image = "img/portfolio/universal-grave.png"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 
 GRAVE - the Global Reserve For Abandoned Virtual Entities. 
