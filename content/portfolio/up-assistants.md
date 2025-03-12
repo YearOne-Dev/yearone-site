@@ -10,4 +10,6 @@ weight = 1
 
 UP Assistants, an implementation of the Universal Assistants protocol (UAP) which allows you to setup automations on your Lukso Universal Profile, based on incoming LYX, LSP7 or LSP8 assets. 
 
+This was built with the help of a Lukso grant.
+
 https://upassistants.com

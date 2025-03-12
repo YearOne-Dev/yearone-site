@@ -13,4 +13,6 @@ A cemetery for unwanted digital assets.
 
 But given that one man's trash is another man's treasure, all assets have a chance at revival.
 
+Winner of the Lukso #BuildUp2 hackathon.
+
 https://universalgrave.com
