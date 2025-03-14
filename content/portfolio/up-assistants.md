@@ -5,11 +5,7 @@ title = 'UP Assistants'
 date = 2024-10-02T19:41:06+04:00
 draft = false
 weight = 1
-
+website = "https://upassistants.com"
 +++
 
-UP Assistants, an implementation of the Universal Assistants protocol (UAP) which allows you to setup automations on your Lukso Universal Profile, based on incoming LYX, LSP7 or LSP8 assets. 
-
-This was built with the help of a Lukso grant.
-
-https://upassistants.com
+Setup automations on your Lukso UP profile based on incoming assets.
