@@ -15,11 +15,12 @@ style = "default"
 description = "web3 dev shop"
 copyright = "&copy;2024 Yearone IO"
 sidebarAbout = [
-    "LUKSO dev shop.",
-    "Droppers of 🖼️🔥📂 https://burntpix.cc",
-    "Builders of the 👻 https://universalgrave.com",
-    "🏅 Winners of LUKSO #BuildUp2 hackathon",
-    "$LYX 🆙 only.",
+    "Dev shop.",
+    "⚡️ Rapid MVPers and prototypers.",
+    "🫡 Experienced in early stage product development.",
+    "🕵️‍♂️ Deep knowledge in web3, ethereum and Lukso LSPs.",
+    "🏅 Winners of LUKSO #BuildUp2 hackathon and LUKSO Grants Program.",
+    "✉️ If you want to bring your ideas to life, reach out to us!",
 ]
 # Contact page
 # Since this template is static, the contact form uses www.formspree.io as a
