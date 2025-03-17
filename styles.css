@@ -155,7 +155,21 @@ body {
   background: linear-gradient(135deg, #ffeaf5 0%, #fff7e6 100%);
 
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 2px solid grey;
+}
 
+.team-member {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Optional: Style the name text */
+.team-name {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #333;
+  font-weight: 500;
 }
 
 /* Social Media Links */
