@@ -149,7 +149,13 @@ body {
   height: 100px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid grey;
+  border: none; /* or a thin border if you prefer */
+
+  /* Subtle gradient from a pastel pink to a pastel gold (tying in #f2c94c) */
+  background: linear-gradient(135deg, #ffeaf5 0%, #fff7e6 100%);
+
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
 }
 
 /* Social Media Links */
