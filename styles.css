@@ -215,6 +215,11 @@ body {
   transform: scale(1.1);
 }
 
+.x-logo {
+  width: 30px;
+  height: 30px;
+}
+
 /* Section B: Projects Grid */
 .projects-section {
   flex: 1;
@@ -279,6 +284,7 @@ body {
 @media (max-width: 768px) {
   .layout-container {
     flex-direction: column;
+    align-items: center;
   }
 
   .company-info {
