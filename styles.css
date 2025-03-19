@@ -191,15 +191,9 @@ body {
   height: 35px;
 }
 
-/* LUKSO PNG: match the 35px size if you want it similar to LinkedIn's SVG */
 .lukso-logo {
   width: 35px;
   height: 35px;
-  /* Optionally:
-  object-fit: contain;
-  filter: grayscale(100%);
-  or any other effect you want
-  */
 }
 
 /* Section B: Projects Grid */
