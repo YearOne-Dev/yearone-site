@@ -168,7 +168,6 @@ body {
   display: inline-flex;
   width: 40px;
   height: 40px;
-  /*border: 1px solid var(--border-color);*/
   border-radius: 50%;
   align-items: center;
   justify-content: center;
@@ -190,6 +189,17 @@ body {
   fill: #333333 !important; /* Force the fill color */
   width: 35px;
   height: 35px;
+}
+
+/* LUKSO PNG: match the 35px size if you want it similar to LinkedIn's SVG */
+.lukso-logo {
+  width: 35px;
+  height: 35px;
+  /* Optionally:
+  object-fit: contain;
+  filter: grayscale(100%);
+  or any other effect you want
+  */
 }
 
 /* Section B: Projects Grid */
@@ -228,13 +238,13 @@ body {
 
 .project-image .chart {
   width: 100%;
-  height: 100%; /* Fill the container */
-  object-fit: cover; /* Ensure image fits without distortion */
+  height: 100%;
+  object-fit: cover;
   border-radius: 4px;
 }
 
 .project-info {
-  flex: 1; /* Take remaining space */
+  flex: 1;
   padding: 0.5rem 0;
   display: flex;
   flex-direction: column;
