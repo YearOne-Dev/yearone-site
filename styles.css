@@ -150,6 +150,7 @@ body {
 }
 
 /* Social Media Links */
+/* Social Media Links */
 .social-media {
   margin-top: 1.5rem;
 }
@@ -186,14 +187,22 @@ body {
 }
 
 .social-links .icon {
-  fill: #333333 !important; /* Force the fill color */
+  fill: #333333 !important;
   width: 35px;
   height: 35px;
 }
 
-.lukso-logo {
+/* LUKSO Emoji Icon styled to be monochromatic */
+.social-icon {
+  font-size: 35px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   width: 35px;
   height: 35px;
+  color: #333333; /* Fallback color */
+  /* Apply a filter to convert the native emoji colors to grayscale */
+  filter: grayscale(100%);
 }
 
 /* Section B: Projects Grid */
